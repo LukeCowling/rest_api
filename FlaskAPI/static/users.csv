@@ -1,0 +1,5 @@
+__v,_id,date,name,password,pause,type,username
+0,6143c2e62e5ea80018d169bb,2021-09-16T22:19:18.026Z,Stark,$2a$10$eWsVwmrCXrPNNcL/0Q8Ole/rYbD/0nVsy0U.G3Dn1VALB1FFQokC6,false,User,Starkey
+0,61a3e9fc147867001895fe2b,2021-11-28T20:43:40.186Z,Tim,$2a$10$ObjWU/eNdRYmM9hVQY4AEuPWeDykLtfFF.sPslMmEUsIyUavvoJQe,true,User,Tuppers
+0,6143bb272e5ea80018d169ba,2021-09-16T21:46:15.513Z,Eric Wedge-Bull,$2a$10$NgI7flWd7DFTiIo0CnojOeK9qUhrHUpTa6hXYbcl2YAHPoVijBdbi,false,User,wedgester
+0,6143bb122e5ea80018d169b9,2021-09-16T21:45:54.666Z,Alex Bowden,$2a$10$45oEH4m7Szmc27poRjRNEepdlfW4vLRogfJgo5paMwkaLGGh4nru2,false,User,KidTalent

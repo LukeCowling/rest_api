@@ -1,0 +1,19 @@
+{% extends 'base.html'%} {% block title %}Home Page{% endblock %} {% block
+content %}
+<div class="container">
+  <ul class="list-group">
+    {% for player in players %}
+    <div class="card" style="width: 18rem">
+      <img src="{{player['imageURL']}}" class="card-img-top" />
+      <div class="card-body">
+        <h5 class="card-title">{{player['Name']}}</h5>
+        <p class="card-text">
+          {{player['Name']}} plays for {{player['Team']}}.
+        </p>
+        <a href="#" class="btn btn-primary">£{{player['price']}} Buy Player</a>
+      </div>
+    </div>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
